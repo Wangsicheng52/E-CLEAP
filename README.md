@@ -26,7 +26,7 @@ Common parameters for all classifiers:
 
 The model combines predictions through soft voting, where probabilities are weighted and averaged based on the model's weights.
 
-![Ensemble model architecture diagram](images/Fig2.png)
+![Ensemble model architecture diagram](images/Fig2.jpg)
 
 ## Features
 
