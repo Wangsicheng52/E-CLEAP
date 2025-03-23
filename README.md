@@ -26,7 +26,7 @@ Common parameters for all classifiers:
 
 The model combines predictions through soft voting, where probabilities are weighted and averaged based on the model's weights.
 
-![Ensemble model architecture diagram](images/Fig2.tif)
+![Ensemble model architecture diagram](images/Fig2.png)
 
 ## Features
 
@@ -61,7 +61,7 @@ E-CLEAP significantly outperforms traditional machine learning models (SVM, Baye
 - Precision: 83.53%
 - F1-score: 85.54%
 
-![ROC curves and AUC values for different models on the test set (AAC features)](images/Fig6.tif)
+![ROC curves and AUC values for different models on the test set (AAC features)](images/Fig6.png)
 
 ## Requirements
 
